@@ -1,2 +1,2 @@
 # J.A.V.I.S-IA-asistente
-Este será un asistente de IA , llamado J.A.R.V.I.S. si como Iron Man, este asistente me ayudara con la automatización de tareas y la realización de ideas o proyectos a futuro. Lo haré para mis dispositivos para que puedan conectarse y desde cualquier lugar pueda ejecutarlo, tambien intentare darle comandos de voz para que responda mis instrucciones
+This will be an AI assistant named J.A.R.V.I.S.—yes, just like in *Iron Man*. It will help me automate tasks and bring future ideas or projects to life. I’m setting it up so my devices can connect to it and I can run it from anywhere; I also plan to implement voice commands so it can respond to my instructions.
